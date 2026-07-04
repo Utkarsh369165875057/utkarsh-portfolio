@@ -5,9 +5,9 @@ A modern, responsive, and interactive personal portfolio website built using HTM
 
 ## 🚀 Live Demo
 
-🔗 [https://yourusername.github.io/portfolio/](https://utkarsh369165875057.github.io/utkarsh-portfolio/)
+🔗 [[https://yourusername.github.io/portfolio/](https://utkarsh369165875057.github.io/utkarsh-portfolio/)
+](https://utkarsh369165875057.github.io/utkarsh-portfolio/)
 
-> Replace the above link with your GitHub Pages URL.
 
 ---
 
